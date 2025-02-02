@@ -1,0 +1,100 @@
+,college_name,max,min,mean,fess,rating,public/private
+0,"Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai",99.9132362,99.843394,99.87938037,"30,000",10,1.0
+1,COEP Technological University,99.9337842,99.7773039,99.85975245,"40,000",9,1.0
+2,"Bhartiya Vidya Bhavan's Sardar Patel Institute  of Technology , Andheri, Mumbai",99.6919285,99.6298405,99.66349725,300000,10,1.0
+3,"Pune Institute of Computer Technology, Dhankavdi, Pune",99.8435944,99.5257939,99.64396183,200000,10,1.0
+4,"Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai",99.6015936,99.2957413,99.40199246,67000,10,1.0
+5,"Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",99.6688264,98.9968802,99.27079049,90000,10,1.0
+6,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",99.2240264,98.8438758,99.02940835,78000,10,1.0
+7,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",99.4204148,98.6765609,98.98664502,56000,10,0.0
+8,"Thadomal Shahani Engineering College, Bandra, Mumbai",99.1541532,98.5491179,98.88512645,100000,9,1.0
+9,"B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune",98.91938,98.4160917,98.61333043,120000,7,1.0
+10,"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",99.7528986,98.036957,98.58425212,180000,9,0.0
+11,K J Somaiya Institute of Technology,98.6310614,97.964123,98.27312258,40000,8,1.0
+12,"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",98.0804777,97.7872542,97.94642668,50000,9,0.0
+13,"Thakur College of Engineering and Technology, Kandivali, Mumbai",99.3568514,97.6924899,98.16660213,67000,4,0.0
+14,"Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of  Management,  Pune",98.2988025,97.6493402,97.8877772,78000,6,0.0
+15,"Vidyalankar Institute of Technology,Wadala, Mumbai",98.617183,97.5717544,98.0348591,56000,7,0.0
+16,"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune",98.3078886,97.3720281,97.77610365,78000,4,1.0
+17,"Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",98.0099502,97.3600644,97.62623983,67000,8,1.0
+18,"Agnel Charities' FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai",98.3162275,97.3134328,97.72552055,45000,6,0.0
+19,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai",98.8912886,97.2771336,97.70552838,62000,8,0.0
+20,"MIT Academy of Engineering,Alandi, Pune",97.9344897,97.0529612,97.5948713,56000,10,0.0
+21,"All India Shri Shivaji Memorial Society's College of Engineering, Pune",98.0217464,96.9302413,97.37574805,120000,8,0.0
+22,"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",98.6523304,96.6737739,97.17981323,300000,7,0.0
+23,"International Institute of Information Technology (IÂ²IT), Pune.",98.1185505,96.6535898,97.47246877,180000,9,0.0
+24,"St. Francis Institute of Technology,Borivali, Mumbai",97.6981613,96.6535898,97.0877392,150000,6,1.0
+25,"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil  Institute of Technology, Pimpri, Pune",97.8065754,96.6258542,97.03421629,210000,7,0.0
+26,"K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",98.7017294,96.6258542,97.42156555,160000,8,1.0
+27,"Government College of Engineering & Research, Avasari Khurd",96.8186638,96.4930621,96.6954613,45000,6,1.0
+28,"Don Bosco Institute of Technology, Mumbai",97.0529612,96.3841754,96.7305274,130000,5,1.0
+29,"Progressive Education Society's Modern College of Engineering, Pune",97.4346516,96.1081543,96.80834553,67000,8,1.0
+30,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai",97.0533982,95.9209717,96.3334774,34000,7,1.0
+31,"K. K. Wagh Institute of Engineering Education and Research, Nashik",98.7115006,95.8475702,96.69515103,45000,6,0.0
+32,"Xavier Institute Of Engineering C/O  Xavier Technical Institute,Mahim,Mumbai",97.3720281,95.8135747,96.45309243,200000,8,1.0
+33,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune",97.6493402,95.7384206,96.43061248,40000,6,1.0
+34,"Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai",96.9200835,95.6650859,96.30232818,56000,7,1.0
+35,"Sinhgad College of Engineering, Vadgaon (BK), Pune",98.8072609,95.3875689,96.41306068,78000,8,1.0
+36,"Bharati Vidyapeeth College of Engineering,  Navi Mumbai",96.462186,95.3293762,96.08458273,60000,7,1.0
+37,"Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner",96.8159203,95.1404707,95.87400212,100000,6,1.0
+38,"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",97.1847006,95.1315916,95.96680195,120000,7,0.0
+39,"Mahatma Education Society's Pillai College of Engineering, New Panvel",96.6135363,95.1190305,95.68317997,45000,6,0.0
+40,"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",96.0291229,94.6591943,95.49329687,180000,8,0.0
+41,"Rizvi Education Society's Rizvi College of Engineering, Bandra,Mumbai",97.2283971,94.6469248,95.93766095,190000,6,0.0
+42,"Terna Engineering College, Nerul, Navi Mumbai",96.4217829,94.5920303,95.37854526,45000,7,0.0
+43,"Modern Education Society's College of Engineering, Pune",96.6451245,94.5135505,95.2766838,56000,5,0.0
+44,"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune",95.2797616,94.4876909,94.97026113,78000,4,0.0
+45,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",95.766014,94.3362575,95.13142473,45000,4,0.0
+46,"Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",97.5717544,94.3362575,95.5515237,180000,8,0.0
+47,"N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai",98.8800303,94.29291,95.71875328,89000,3,0.0
+48,"JSPM Narhe Technical Campus, Pune.",95.2545256,94.2383135,94.81032927,78000,3,0.0
+49,"Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College, Mumbai",95.3875689,94.1818526,94.67690553,67000,5,0.0
+50,"Vidyavardhini's College of Engineering and Technology, Vasai",96.9378449,94.1818526,95.53948109,67000,7,0.0
+51,"Atharva College of Engineering,Malad(West),Mumbai",96.1905225,94.0838243,94.8163126,34000,8,0.0
+52,"Maratha Vidya Prasarak Samaj's Karmaveer Adv. Baburao Ganpatrao Thakare College Of Engineering, Nashik",94.9790794,94.0029697,94.4631223,56000,5,0.0
+53,"Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai",95.3875689,93.9121803,94.6498746,34000,4,0.0
+54,"Nutan Maharashtra Vidya Prasarak Mandal , Nutan Maharashtra Institute of Engineering & Technology , Talegaon station , Pune",95.9583037,93.7421047,95.1712353,56000,7,0.0
+55,"Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune",96.7743504,93.4748809,94.05030806,12000,7,0.0
+56,"JSPM'S Jaywantrao Sawant College of Engineering,Pune",97.2807517,93.4206172,94.2579303,23000,4,0.0
+57,"Usha Mittal Institute of Technology SNDT  Women's University, Mumbai",93.7701957,93.2859511,93.5280734,230000,4,0.0
+58,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune",94.6495249,93.0830039,93.50019549,670000,6,0.0
+59,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai",95.4571374,92.9996682,93.95891692,78000,5,
+60,"Bajaj Institute of Technology, Wardha",95.1190305,92.5996204,93.95318088,34000,3,0.0
+61,"JSPM's Imperial College of Engineering and Research, Wagholi, Pune",94.9538024,92.4735769,94.02476803,56000,7,0.0
+62,"R. C. Patel Institute of Technology, Shirpur",95.95134,92.2149174,93.56938409,180000,3,0.0
+63,"Vasantdada Patil Pratishthan's College Of Engineering and Visual Arts, Sion, Mumbai",93.8419335,92.2149174,93.10202062,78000,2,0.0
+64,Ajeenkya DY Patil School of Engineering,94.4073178,91.973466,92.85556912,90000,3,0.0
+65,"Shri Vile Parle Kelavani Mandal's Institute of Technology, Dhule",95.299692,91.9702423,93.15890563,90000,7,0.0
+66,"MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.",94.0594995,91.8979281,92.60851242,89000,8,0.0
+67,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",95.3293762,91.8235378,93.12017043,67000,6,0.0
+68,"Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",92.4735769,91.586273,92.13114003,23000,5,0.0
+69,"Government College of Engineering, Jalgaon",95.7744481,91.5409302,93.4661274,14000,7,1.0
+70,"A. P. Shah Institute of Technology, Thane",95.1073753,91.4874509,93.02979997,45000,5,0.0
+71,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi",93.7141189,91.0917582,92.92867152,78000,7,0.0
+72,"Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",95.3388605,91.0917582,93.67651428,67000,5,0.0
+73,"TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune",94.0838243,90.8511759,91.95777503,56000,6,0.0
+74,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.",92.5142196,90.8078665,91.7831403,120000,7,0.0
+75,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)",94.6205981,90.6976744,92.46345183,160000,5,0.0
+76,"Sinhgad Academy of Engineering, Kondhwa (BK)  Kondhwa-Saswad Road, Pune",93.5685145,90.5561883,91.9979957,34000,6,0.0
+77,"Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune",93.8349561,90.4382847,91.55206018,89000,5,0.0
+78,"Smt. Indira Gandhi College of Engineering, Navi Mumbai",91.0466821,90.2973471,90.63340583,78000,6,0.0
+79,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur",93.7141189,90.269681,91.44454313,78000,5,0.0
+80,"Indira College of Engineering & Management, Pune",93.1886737,89.9502487,91.58322417,45000,8,1.0
+81,"NBN Sinhgad Technical Institutes Campus, Pune",92.6510305,89.9192371,91.01120888,140000,6,0.0
+82,"Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai",91.1115395,89.629736,90.53081713,30000,5,0.0
+83,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",92.9996682,89.5056923,90.76795942,120000,4,0.0
+84,"TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",91.8375279,89.0980466,90.02200307,150000,6,0.0
+85,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar",92.7152945,89.0325033,90.8738989,160000,5,0.0
+86,"Government College of Engineering,Yavatmal",91.4761117,89.0325033,90.01625577,34000,5,1.0
+87,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik",93.8196123,88.9608831,90.63031898,125000,6,0.0
+88,ISBM College Of Engineering Pune,93.833017,88.8543387,91.18686822,150000,7,0.0
+89,"Sinhagad Institute of Technology, Lonavala",95.6029376,88.4908068,90.32808886,340000,8,0.0
+90,"Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar",93.5731551,88.4671878,89.70224133,140000,8,0.0
+91,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.",93.1330675,88.3304859,90.42645527,56000,8,0.0
+92,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli",91.8555998,88.1677532,89.56572484,34000,8,0.0
+93,"Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",89.5284491,88.0563059,88.44409326,23000,6,0.0
+94,"K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli",89.2748671,87.6520385,88.50743247,45000,7,0.0
+95,"Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad",97.2814036,87.6299679,91.48663711,34000,5,0.0
+96,"Pune District Education  Association's College of Engineering, Pune",90.6908949,87.6299679,89.32642568,120000,4,0.0
+97,"Dr. Babasaheb Ambedkar Technological University, Lonere",93.9573805,87.6060476,91.5274647,180000,5,0.0
+98,"Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik",91.2460306,87.5451435,89.13730747,150000,6,0.0
